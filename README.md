@@ -6,11 +6,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=qmuuoryan" alt="qmuuoryan" /></a> </p>
 
-- 🌱 I’m currently learning **Flutter**
 
-- 💬 Ask me about **python**
 
-- 📫 How to reach me **ryanmuuo91@gmail.com**
+  Ask me about **python**  **Robotics and AI**
+
+  How to reach me **ryanmuuo91@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
