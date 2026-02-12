@@ -8,7 +8,7 @@
 
 
 
-  Ask me about **python**  **Robotics and AI**
+  Ask me about **python**, **IOT**, **Robotics and AI**
 
   How to reach me **ryanmuuo91@gmail.com**
 
