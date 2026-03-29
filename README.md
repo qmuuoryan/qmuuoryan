@@ -2,7 +2,7 @@
 
 <h3 align="center"> Software Engineer </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=qmuuoryan&label=Profile%20views&color=0e75b6&style=flat" alt="qmuuoryan" /> </p>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=qmuuoryan" alt="qmuuoryan" /></a> </p>
 
